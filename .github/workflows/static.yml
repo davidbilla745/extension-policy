@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This extension collects only the validated names you submit and securely transmits them to a Telegram API for demonstration purposes. No personal data is stored locally, and no remote code is executed. If you have any questions, please contact support.</p>
+</body>
+</html>
